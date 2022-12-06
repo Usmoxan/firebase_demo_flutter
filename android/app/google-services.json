@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172068162704",
+    "project_id": "demoapp-33494",
+    "storage_bucket": "demoapp-33494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172068162704:android:807ab5cab23cc9627fdc15",
+        "android_client_info": {
+          "package_name": "com.example.firebase_bismillah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172068162704-2o8ogh53539v3i9r6dfgam06jkqjl7v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOYSTI3t79QirWBjkduFropBVz6bpA-5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172068162704-2o8ogh53539v3i9r6dfgam06jkqjl7v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
